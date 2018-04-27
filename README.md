@@ -1,0 +1,4 @@
+# Poisson-INAR-1-
+Non-stationary Poisson INAR(1) using CLS
+
+USING CONTIONAL LEAST SQUARE TO ESTIMATE PARAMETERS
